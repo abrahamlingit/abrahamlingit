@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abrahamlingit/abrahamlingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Abraham 👋
 
-Here are some ideas to get you started:
+*Building the future with AI, one agent at a time.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Email](https://img.shields.io/badge/Email-abrahamlin590%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahamlin590@gmail.com)
+
+</div>
+
+---
+
+### 🚀 Currently Working On
+
+> Implementing **Agentic AI** in everyday life — making autonomous agents practical, useful, and accessible.
+
+---
+
+### 🔧 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 💬 Ask Me About
+
+Where I think the **tech field will be in 5 years** — I have opinions and I'm not afraid to share them.
+
+---
+
+<div align="center">
+
+*"The best way to predict the future is to build it."*
+
+</div>
