@@ -2,8 +2,6 @@
 
 # Hey, I'm Abraham 👋
 
-*Building the future with AI, one agent at a time.*
-
 ---
 
 [![Email](https://img.shields.io/badge/Email-abrahamlin590%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahamlin590@gmail.com)
@@ -14,7 +12,7 @@
 
 ### 🚀 Currently Working On
 
-> Implementing **Agentic AI** in everyday life — making autonomous agents practical, useful, and accessible.
+> Implementing **Agentic AI** in everyday life.. making autonomous agents practical, useful, and accessible.
 
 ---
 
@@ -30,7 +28,7 @@
 
 ### 💬 Ask Me About
 
-Where I think the **tech field will be in 5 years** — I have opinions and I'm not afraid to share them.
+Where I think the **tech field will be in 5 years**. I have opinions and I'm not afraid to share them.
 
 ---
 
